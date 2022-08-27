@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avia_tickets_test_task/static/css/main.86d4c702.css",
+    "main.js": "/avia_tickets_test_task/static/js/main.dd915845.js",
+    "index.html": "/avia_tickets_test_task/index.html",
+    "main.86d4c702.css.map": "/avia_tickets_test_task/static/css/main.86d4c702.css.map",
+    "main.dd915845.js.map": "/avia_tickets_test_task/static/js/main.dd915845.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d4c702.css",
+    "static/js/main.dd915845.js"
+  ]
+}
